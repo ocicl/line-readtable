@@ -1,0 +1,10 @@
+* line-readtable
+
+Readtable library suited for line editing of Lisp code
+
+|---------+------------------------------------------------------------|
+| source  | git:https://codeberg.org/aartaka/line-readtable.git       |
+| commit  | 1f62e38                                                    |
+| systems | line-readtable line-readtable/tests line-readtable/slynk line-readtable/swank |
+|---------+------------------------------------------------------------|
+
